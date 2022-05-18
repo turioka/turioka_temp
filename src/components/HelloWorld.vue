@@ -1,7 +1,6 @@
 <script setup>
 import { ref } from "vue";
 import ClickCounter from "./ClickCounter.vue";
-import Itemlist from "./Itemlist.vue";
 import ItemList from "./Itemlist.vue";
 
 defineProps({
