@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from "vue";
 import ClickCounter from "./ClickCounter.vue";
-import ItemList from "./Itemlist.vue";
+import ItemList from "./ItemList.vue";
 
 defineProps({
   msg: { type: String, default: "" },
